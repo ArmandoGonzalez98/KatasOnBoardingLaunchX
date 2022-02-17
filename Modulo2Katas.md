@@ -34,7 +34,7 @@ Crea un entorno virtual mediante ``venv``
 
 Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno virtual y se ha aislado del resto de tu máquina.
 
-![1644730629517.png](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/ARMANDO%20HP/Documents/Trabajos%20Armando%20Jr/FULLSTACK/CursoIntroPython-main/MIS%20KATAS/image/Modulo2Katas/1644730629517.png)
+![1644730629517.png](https://github.com/ArmandoGonzalez98/KatasOnBoardingLaunchX/blob/main/image/Modulo2Katas/1644730629517.png)
 
 Instalar una biblioteca
 
@@ -48,14 +48,14 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
 
   No deberías obtener respuesta. A continuación, veamos cómo cambia la salida de ``pip freeze`` cuando se agrega una biblioteca (un paquete).
 
-  ![1644730769319.png](image/Modulo2Katas/1644730769319.png)
+  ![1644730769319.png](https://github.com/ArmandoGonzalez98/KatasOnBoardingLaunchX/blob/main/image/Modulo2Katas/1644730769319.png)
 * Ejecuta el comando ``pip install`` para instalar una biblioteca:
 
   ```
   pip install python-dateutil
   ```
 
-  ![1644730788337.png](image/Modulo2Katas/1644730788337.png)
+  ![1644730788337.png](https://github.com/ArmandoGonzalez98/KatasOnBoardingLaunchX/blob/main/image/Modulo2Katas/1644730788337.png)
 * Un gran mensaje de salida de texto dice que está instalando tu biblioteca, y debe terminar con la siguiente oración:
 
 ```
@@ -86,10 +86,10 @@ deactivate
 
 Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
-![1644730863578.png](image/Modulo2Katas/1644730863578.png)
+![1644730863578.png](https://github.com/ArmandoGonzalez98/KatasOnBoardingLaunchX/blob/main/image/Modulo2Katas/1644730863578.png)
 
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
-![1644730874098.png](image/Modulo2Katas/1644730874098.png)
+![1644730874098.png](https://github.com/ArmandoGonzalez98/KatasOnBoardingLaunchX/blob/main/image/Modulo2Katas/1644730874098.png)
 
 Ejercicio Realizado por Armando González Martínez
