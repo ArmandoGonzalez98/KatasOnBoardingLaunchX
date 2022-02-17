@@ -17,7 +17,7 @@ Crea un entorno virtual mediante ``venv``
   ``python -m venv env``
   Ahora tienes un directorio (folder) ``env`` creado en tu terminal.
 
-  ![1644730581277.png](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/ARMANDO%20HP/Documents/Trabajos%20Armando%20Jr/FULLSTACK/CursoIntroPython-main/MIS%20KATAS/image/Modulo2Katas/1644730581277.png)
+  ![1644730581277.png](https://github.com/ArmandoGonzalez98/KatasOnBoardingLaunchX/blob/main/image/Modulo2Katas/1644730581277.png)
 * Ejecuta el comando para activar el entorno virtual: ``source env/bin/activate``
 
   ```
